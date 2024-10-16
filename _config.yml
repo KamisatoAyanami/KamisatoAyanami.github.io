@@ -3,8 +3,8 @@ title: Kamisato's Blog
 SEOTitle: Kamisato的博客 | Kamisato Ayanami Blog
 header-img: img/home-bg.jpg
 email: zhou1345254281@163.com
-description: "这里是 @Kamisato 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "Kamisato, Kamisato, Kamisato, 绫华栈, Kamisato, @Kamisato, Kamisato的博客, Kamisato Ayanami Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+description: "这里是 @KamisatoAyanami 的个人博客，和神里绫波丽小姐一起改变世界 | 要做一个 改变世界 的Ayanami"
+keyword: "Kamisato, Ayaka, Ayanami, 绫华栈, KamisatoAyaka, @Kamisato, KamisatoAyanami的博客, Kamisato Ayanami Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://Kamisato.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 才不是桃酥
-zhihu_username: 才不是桃酥
-github_username: 才不是桃酥
-twitter_username: 才不是桃酥
+weibo_username: KamisatoAyanami
+zhihu_username: KamisatoAyanami
+github_username: KamisatoAyanami
+twitter_username: KamisatoAyanami
 #facebook_username:  --
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "神里小姐不会梦见青春绷带绫波丽 <br> KamisatoAyaka && Ayanami "
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags

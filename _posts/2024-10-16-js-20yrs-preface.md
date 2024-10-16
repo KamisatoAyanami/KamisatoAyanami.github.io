@@ -5,8 +5,8 @@ author:       "KamisatoAyaka"
 header-style: text
 catalog:      true
 tags:
-    - Web
-    - JavaScript
+    - C语言
+    - 数据结构
 ---
 
 > 绫波丽小姐（Ayanami）邀请我给[《小白自学——C语言（辅助于学习数据结构）——Part1》](https://blog.csdn.net/Bang1121/article/details/139929256) 写的自学笔记。

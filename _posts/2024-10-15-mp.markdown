@@ -1,22 +1,15 @@
 ---
-layout:      post
-title:       "《Java--练习生》
-author:      "Kamisato Ayanami"
+layout:       post
+title:        "《绫波丽的Java课堂》"
+author:       "KamisatoAyaka"
 header-style: text
-catalog:     true
+header-img: "img/王手.jpg"
+catalog:      true
 tags:
-    - Web
-    - JavaScript
+    - C语言
+    - 数据结构
 ---
 
-*/as[odfjiksladkf
-af
-asojf
-as;dlfj
-sadlfjas
-d;fj
-sc;avja
-;sdjfg
-sdapfjsad
-;fjsda
-;fjslak;djfasdjflskdjf
+> 这是来自我们可爱的绫华小姐的提问！谁能拒绝可爱的绫华小姐呢！？
+
+**我是神里绫华的狗！** from **Ayanami**

@@ -1,9 +1,10 @@
 ---
 layout:       post
 title:        "《绫波丽的Java课堂》"
+subtitle: "Ayanami: I'm Ayaka's Dog!!!"
 author:       "KamisatoAyaka"
-header-style: text
 header-img: "img/王手.jpg"
+header-mask: 0.4
 catalog:      true
 tags:
     - C语言

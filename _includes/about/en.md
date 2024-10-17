@@ -1,38 +1,59 @@
-Hey, I am Huang, Xuan (a.k.a. _@huxpro_). I worked on the [React Team](https://beta.reactjs.org/community/meet-the-team#react-core) at <del>Facebook</del>Meta.
+我，神里绫华（KamisatoAyaka），稻妻“社奉行”神里家的长女，
 
-I considered myself as a hybrid between a software engineer specifically into the programming languages theories and implementations domain (i.e. compiler, type system, type-based formal verification, virtual machine, runtime systems, garbage collection), and a creative technologiest deeply caring about many humanistic aspects (e.g. visual, sound, interaction) in UI and HCI in general.
+在离岛某处偶遇外来的绫波丽小姐，开启了我们直接的故事。
 
-I also worked on the [Hermes JavaScript Engine](https://hermesengine.dev/), some other projects under the [Reality Labs (Research)](https://tech.fb.com/ar-vr/), and [ReasonML](https://reasonml.github.io/) (now [ReScript](https://rescript-lang.org/)) efforts at Meta (Facebook).
+##### 身份背景
+- 被迫成长的时期
+  - 许多年前，稻妻城中最为尊崇的三名家之一的神里家族发生了重大变故。
+  - 家族重担落到了哥哥神里绫人肩上，那时候的绫华还不是现在这副成熟能干的样子。
+  - 年幼爱玩的她，并不明白家族责任是什么，更不会应对责任后面的种种人事物。
+  - 但是看着病床上的妈妈和忙到无法归家的哥哥，小绫华意识到自己必须要成长起来了。
+  - 于是她决定捡起荒废许久的剑术和诗歌，这是身为贵族的基础修养。
+  - 要是能掌握这两样，她就算是明面上说过得去的神里家千金，能代替哥哥出席一些社交场合，为他分担一些事务。
+  - 为此，剑术训练、诗歌背诵、字体练习、主理家族内外事情、成为了日常生活的一环，延续至今，从未间断。
+  - 如今的她，是神里绫华，将军御下三家之一，神奉行神里家的大小姐，雅称：白鹭公主。 
+- 成长的背后和神之眼
+  - 绫华仓促的成长背后伴随着的是苦痛。
+  - 诗歌背不下来、写字不够风雅、剑术毫无章法。
+  - 事实证明，绫华的天赋并非上上，常人所经历的苦恼她也需要经历，并且更加繁多深刻。
+  - 常人不说放弃，但多少会有些动摇，也许是责任心，也许是不甘心。
+  - 她从未动摇过，如此坚韧，一遍不行就五十遍，五十遍不行就一百遍。
+  - 不知道多少天，无论是茶道、剑道或棋道，诸般风雅都已完全掌握。
+  - 千般锤磨，素振无人可当。
+  - 秉持着这句话而努力的她就连神明也为之动容，神之眼也因此来到她身边。
+- 少女绫华
+  - 不在稻妻关系网中转圜腾挪，不在提防着贵胄门庭之间的权力争斗。
+  - 卸下端庄持重的对外形象，放下重担。
+  - 不是受人景仰的白鹭公主，不是掌管神里大宅的绫华大人。
+  - 这种时刻的她，才能绽放出随性自在的真我。
+  - 也只有这时候才能看见绫华小时候的影子。
+  - 虽然从未向他人说明·······但
+  - 真正能让绫华露出笑容的是那些寻常百姓能享受的小事。
+  - 譬如制作点心，譬如在池塘边捞金鱼，又譬如躲起来阅读八重堂新出的小说·······无一不是小事。
+  - 普通女孩也能做的事。
+  - 深夜肚子饿了，偷偷溜到厨房，哼着歌为自己做一碗茶泡饭；茶道课时，偷偷根据茶叶的形状占卜恋爱运势······等等。
+  - 普通女孩子也会做的事
+  - 可惜，身为神里家的大小姐，这样的自由时刻实在很少很少。
 
-In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and web apps under the [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), found and lead front-end infrastructure team at an unicorn startup company [Beijing Weiying (a.k.a. WePiao, now acquired by Maoyan)](https://www.crunchbase.com/organization/beijing-weiying-technology), and helped [Ele.me (now acquired by Alibaba)](https://en.wikipedia.org/wiki/Ele.me) to upgrade their mobile web site into [the first influential PWA (progressive web app) in China](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509).
+#### 身份卡
+生日：9月28日
 
-I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science (with a focus on programming languages, mainly supervised by [Prof. Matthew Fluet](https://www.cs.rit.edu/~mtf/)) at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology).
+所属：社奉行
 
-##### Appearence
+神之眼：冰
 
-- [React Labs: What We've Been Working On – June 2022][12] · React Blog · 2022
-- [React Without Memo][11] · [React Conf 2021](https://conf.reactjs.org/)
-- [Toward Hermes being the Default][11] · React Native Blog · 2021
-- React Native 0.64 with Hermes for iOS · [The RN Show Podcast Ep #5](https://www.callstack.com/podcast-react-native-show) · 2021
-- [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI Guangzhou 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux Beijing 2017
-- PWA Rehashing · Baidu HQ Beijing 2017
-- [Service Worker 101][5] · GDG DevFest Beijing 2016
-- [Progressive Web Apps][4] · QCon Shanghai 2016
-- Progressive Web App in my POV · GDG IO Redux Beijing 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript Modularization Journey][1] · 2015
+命之座：雪鹤座
 
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
-[10]: https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default
-[11]: https://youtu.be/lGEMwh32soc
-[12]: https://reactjs.org/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022.html
+爱好：唱歌，跳舞，吟诗，下棋
+
+兄妹：神里绫人
+
+喜欢的食物：茶泡饭
+
+讨厌的食物：肥肉和内脏
+
+性格：优柔，文雅，坚韧
+
+## 请好好看着我
+
+## 刀剑抱业，名工怀宝
